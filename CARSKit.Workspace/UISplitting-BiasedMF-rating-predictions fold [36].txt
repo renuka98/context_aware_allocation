@@ -1,0 +1,8 @@
+userId	itemId	contexts	rating	prediction
+10809	w_nabellen incomplete dossiers2	dc:1	4.636363636363637	4.5942955
+10909	w_nabellen incomplete dossiers4	dc:1	4.0	5.130676
+11179	w_nabellen offertes4	dc:1	4.5	5.458
+11299	w_nabellen offertes1	dc:1	4.547169811320755	3.5824847
+11009	w_valideren aanvraag2	dc:1	7.0	2.6019626
+10909	w_nabellen offertes1	dc:1	4.948717948717949	4.7981796
+11000	w_nabellen incomplete dossiers3	dc:1	4.333333333333333	4.9559298

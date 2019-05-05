@@ -1,0 +1,2 @@
+Final Results by UISplitting-BiasedMF, MAE: 0.715473, RMSE: 0.982569, NAME: 0.102210, rMAE: 4.735239, rRMSE: 4.800896, MPE: 0.000000, numFactors: 10, numIter: 100, lrate: 0.02, maxlrate: -1.0, regB: 1.0E-4, regU: 1.0E-4, regI: 1.0E-4, regC: 0.001, isBoldDriver: true, Time: '00:00','00:00'
+Final Results by UISplitting-BiasedMF, MAE: 0.723827, RMSE: 1.010845, NAME: 0.103404, rMAE: 4.735239, rRMSE: 4.800896, MPE: 0.000000, numFactors: 10, numIter: 100, lrate: 0.02, maxlrate: -1.0, regB: 1.0E-4, regU: 1.0E-4, regI: 1.0E-4, regC: 0.001, isBoldDriver: true, Time: '00:00','00:00'
